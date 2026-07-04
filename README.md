@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-im tim (Timothy Fitzmons) a security reasearcher  
+im tim (Timothy Fitzmons) a security reasearcher
+<img src="timF.png"></img>
 <!--
 **tim-fitzmons/tim-fitzmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
